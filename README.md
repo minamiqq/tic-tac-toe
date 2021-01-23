@@ -15,5 +15,5 @@
 
 ## Инструкция по установке и запуску игры
 
-1. Перейти по ссылке https://vladislavaa.github.io/ticTacToeJS/
+1. Перейти по ссылке https://miraccul.github.io/tic-tac-toe/
 2. Приступить к игре
